@@ -1,1 +1,8 @@
-
+bind_US_standard "mwheeldown" "+jump; exec sg2; fps_max 30" 0
+bind_US_standard "MWHEELUP" "+forward" 1
+bind_US_standard "mwheeldown" "+toggle_duck; exec ts1; fps_max 170" 0
+bind_US_standard "mwheeldown" "+jump; exec sg4; fps_max 30" 0
+bind_US_standard "mwheelup" "+jump; exec sg4; fps_max 30" 0
+bind_US_standard "mwheeldown" "+toggle_duck; exec ls; fps_max 170" 0
+bind_US_standard "mwheelup" "+toggle_duck; exec ls; fps_max 170" 0
+bind_US_standard "space" "+jump; exec sg1" 0
