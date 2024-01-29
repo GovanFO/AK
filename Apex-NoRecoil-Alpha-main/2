@@ -1,2 +1,4 @@
+bind_US_standard "lctrl" "+duck; exec ts" 0
 bind_US_standard "mwheeldown" "+jump; exec sg2; fps_max 30" 0
 bind_US_standard "MWHEELUP" "+forward" 1
+bind_US_standard "mwheeldown" "+toggle_duck; exec ts1; fps_max 0" 0
